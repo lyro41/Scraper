@@ -1,0 +1,196 @@
+, flag, Country, Capital, Average Salary, Population, Area, Official language
+1, , China, Beijing, 1,400 $, 1,446,753,423, 9,596,961 km2, Standard Chinese
+2, , India, New Delhi, 620 $, 1,398,364,636, 3,287,263 km2, Hindi and English
+3, , United States, Washington D.C., 4,500 $, 333,607,832, 9,833,520 km2, English
+4, , Indonesia, Jakarta, 800 $, 277,448,500, 1,904,569 km2, Indonesian
+5, , Pakistan, Islamabad, 650 $, 226,804,965, 881,913 km2, Urdu and English
+6, , Brazil, Brasília, 3,200 $, 214,592,195, 8,515,767 km2, Portuguese
+7, , Nigeria, Abuja, 760 $, 213,258,788, 923,769 km2, English
+8, , Bangladesh, Dhaka, 210 $, 167,209,226, 148,560 km2, Bengali
+9, , Russia, Moscow, 850 $, 146,017,560, 17,098,246 km2, Russian
+10, , Mexico, Mexico City, 1,800 $, 130,767,595, 1,972,550 km2, Spanish
+11, , Japan, Tokyo, 4,200 $, 125,975,723, 377,975 km2, Japanese
+12, , Ethiopia, Addis Ababa, 850 $, 118,932,947, 1,104,300 km2, Afar, Amharic, Oromo, Somali, Tigrinya
+13, , Philippines, Manila, 850 $, 111,569,944, 300,000 km2, Filipino and  English
+14, , Egypt, Cairo, 1,200 $, 104,995,806, 1,010,408 km2, Egyptian Arabic
+15, , Vietnam, Hanoi, 180 $, 98,522,743, 331,699 km2, Vietnamese
+16, , D.R. Congo, Kinshasa, 50 $, 93,404,315, 2,345,409 km2, French
+17, , Turkey, Ankara, 1,300 $, 85,590,401, 783,356 km2, Turkish
+18, , Iran, Tehran, 450 $, 85,457,499, 1,648,195 km2, Persian
+19, , Germany, Berlin, 5,400 $, 84,142,087, 357,022 km2, German
+20, , Thailand, Bangkok, 1,200 $, 70,033,844, 513,120 km2, Thai
+21, , France, Paris, 4,800 $, 67,415,000, 640,679 km2, French
+22, , United Kingdom, London, 4,700 $, 67,089,000, 242,495 km2, English
+23, , Tanzania, Dodoma, 190 $, 61,193,226, 947,303 km2, Swahili and English
+24, , Italy, Rome, 3,100 $, 60,491,826, 301,340 km2, Italian
+25, , South Africa, Pretoria, 1,250 $, 60,144,980, 1,221,037 km2, English, Zulu, Xhosa, Afrikaans, Sepedi, Setswana, Sesotho, Xitsonga, Swazi....
+26, , Kenya, Nairobi, 540 $, 54,985,698, 580,367 km2, English and Swahili
+27, , Myanmar, Naypyidaw, 110 $, 54,419,800, 676,578 km2, Burmese
+28, , South Korea, Seoul, 2,950 $, 51,789,998, 100,363 km2, Korean
+29, , Colombia, Bogotá, 1,350 $, 50,382,424, 1,141,748 km2, Spanish
+30, , Spain, Madrid, 4,250 $, 47,460,795, 505,990 km2, Spanish
+31, , Argentina, Buenos Aires, 550 $, 45,685,020, 2,780,400 km2, Spanish
+32, , Sudan, Khartoum, 740 $, 44,909,953, 1,886,068 km2, Arabic and English
+33, , Algeria, Algiers, 650 $, 43,851,044, 2,381,741 km2, Arabic , Berber
+34, , Uganda, Kampala, 650 $, 43,729,036, 241,038 km2, English and Swahili
+35, , Ukraine, Kyiv, 650 $, 41,342,465, 603,628 km2, Ukrainian
+36, , Iraq, Baghdad, 960 $, 40,228,503, 438,316 km2, Arabic and Kurdish
+37, , Afghanistan, Kabul, 170 $, 38,903,106, 652,864 km2, Dari and Pashto
+38, , Poland, Warsaw, 1,650 $, 38,298,900, 312,696 km2, Polish
+39, , Canada, Ottawa, 3,800 $, 38,246,108, 9,984,670 km2, English and French
+40, , Morocco, Rabat, 690 $, 37,112,080, 710,850 km2, Arabic and Berber
+41, , Uzbekistan, Tashkent, 440 $, 35,011,180, 448,978 km2, Uzbek
+42, , Peru, Lima, 540 $, 34,294,231, 1,285,216 km2, Spanish
+43, , Saudi Arabia, Riyadh, 2,600 $, 34,218,169, 2,149,690 km2, Arabic
+44, , Angola, Luanda, 550 $, 32,866,272, 1,246,700 km2, Portuguese
+45, , Malaysia, Kuala Lumpur, 1,100 $, 32,780,000, 330,803 km2, Malay
+46, , Ghana, Accra, 650 $, 31,072,940, 239,567 km2, English
+47, , Yemen, Sana'a, 320 $, 30,491,000, 555,000 km2, Arabic
+48, , Mozambique, Maputo, 590 $, 30,096,648, 801,590 km2, Portuguese
+49, , Venezuela, Caracas, 160 $, 29,887,118, 916,445 km2, Spanish
+50, , Nepal, Kathmandu, 540 $, 29,095,714, 147,516 km2, Nepali
+51, , Madagascar, Antananarivo, 340 $, 28,427,328, 587,041 km2, Malagasy and French
+52, , Cameroon, Yaoundé, 185 $, 26,565,864, 475,442 km2, French and English
+53, , Ivory Coast, Yamoussoukro, 750 $, 26,388,274, 322,463 km2, French
+54, , Australia, Canberra, 4,800 $, 25,890,400, 7,692,024 km2, English
+55, , North Korea, Pyongyang, 4,500 $, 25,589,604, 120,540 km2, Korean
+56, , Niger, Niamey, 610 $, 24,112,753, 1,267,000 km2, French
+57, , Taiwan, Taipei, 1,400 $, 23,451,837, 36,197 km2, Taiwanese Mandarin
+58, , Sri Lanka, Sri Jayawardenepura Kotte, 540 $, 22,186,000, 65,610 km2, Sinhala and Tamil
+59, , Burkina, Ouagadougou, 160 $, 21,530,181, 274,200 km2, French
+60, , Mali, Bamako, 120 $, 20,250,833, 1,240,192 km2, French
+61, , Romania, Bucharest, 1,360 $, 19,186,201, 238,397 km2, Romanian
+62, , Malawi, Lilongwe, 160 $, 19,159,952, 118,484 km2, English and Chewa
+63, , Kazakhstan, Nur-Sultan, 280 $, 18,761,560, 2,724,900 km2, Kazakh
+64, , Chile, Santiago, 2,300 $, 18,574,003, 756,096 km2, Spanish
+65, , Zambia, Lusaka, 280 $, 17,951,708, 752,618 km2, English
+66, , Ecuador, Quito, 1,800 $, 17,715,822, 283,561 km2, Spanish
+67, , Syria, Damascus, 230 $, 17,700,657, 185,180 km2, Arabic
+68, , Guatemala, Guatemala City, 560 $, 17,663,239, 108,889 km2, Spanish
+69, , Netherlands, Amsterdam, 3,900 $, 17,653,300, 41,865 km2, Dutch
+70, , Senegal, Dakar, 170 $, 16,854,323, 196,712 km2, French
+71, , Chad, N'Djamena, 60 $, 16,294,513, 1,284,000 km2, Arabic and  French
+72, , Zimbabwe, Harare, 305 $, 16,092,171, 390,757 km2, Chewa, Chibarwe, English, Kalanga.....
+73, , Somalia, Mogadishu, 240 $, 15,993,219, 637,657 km2, Somali
+74, , Cambodia, Phnom Penh, 180 $, 15,952,211, 181,035 km2, Khmer
+75, , Guinea, Conakry, 320 $, 13,638,178, 245,857 km2, French
+76, , Rwanda, Kigali, 240 $, 13,401,972, 26,338 km2, Kinyarwanda, French, English, Swahili
+77, , South Sudan, Juba, 105 $, 12,978,250, 644,329 km2, English
+78, , Benin, Porto-Novo, 350 $, 12,569,293, 114,763 km2, French
+79, , Haiti, Port-au-Prince, 105 $, 12,439,646, 27,750 km2, French and Haitian Creole
+80, , Bolivia, Sucre, 280 $, 12,428,245, 1,098,581 km2, Spanish, Quechua, Aymara, Guarani...
+81, , Burundi, Gitega, 340 $, 12,391,976, 27,834 km2, Kirund
+82, , Tunisia, Tunis, 225 $, 11,997,031, 163,610 km2, Arabic
+83, , Belgium, Brussels, 4,200 $, 11,992,641, 30,689 km2, Dutch, French, German
+84, , Jordan, Amman, 980 $, 11,658,123, 89,342 km2, Arabic
+85, , Cuba, Havana, 850 $, 11,381,595, 109,884 km2, Spanish
+86, , Dominican Republic, Santo Domingo, 730 $, 11,378,246, 48,671 km2, Spanish
+87, , Greece, Athens, 3,200 $, 10,918,565, 131,957 km2, Greek
+88, , Czech, Prague, 1,850 $, 10,761,777, 78,871 km2, Czech
+89, , Sweden, Stockholm, 4,300 $, 10,422,070, 450,295 km2, Swedish
+90, , Portugal, Lisbon, 2,200 $, 10,397,892, 92,212 km2, Portuguese
+91, , Azerbaijan, Baku, 380 $, 10,130,100, 86,600 km2, Azerbaijani
+92, , Honduras, Tegucigalpa, 480 $, 9,987,522, 112,492 km2, Spanish
+93, , United Arab Emirates, Abu Dhabi, 3,500 $, 9,916,400, 83,600 km2, Arabic
+94, , Hungary, Budapest, 3,350 $, 9,730,000, 93,030 km2, Hungarian
+95, , Tajikistan, Dushanbe, 145 $, 9,539,645, 143,100 km2, Tajik
+96, , Israel, Jerusalem, 3,800 $, 9,433,340, 22,145 km2, Hebrew
+97, , Belarus, Minsk, 520 $, 9,359,645, 207,595 km2, Belarusian , Russian
+98, , Austria, Vienna, 3,200 $, 8,965,112, 83,879 km2, Austrian German
+99, , Papua New Guinea, Port Moresby, 460 $, 8,965,000, 462,840 km2, English, Hiri Motu, PNG Sign Language, Tok Pisin
+100, , Togo, Lomé, 530 $, 8,908,444, 56,785 km2, French
+101, , Switzerland, Bern, 5,900 $, 8,670,146, 41,285 km2, German, French, Italian
+102, , Sierra Leone, Freetown, 115 $, 8,211,732, 71,740 km2, English
+103, , Hong Kong, Hong Kong, 3,200 $, 7,620,700, 2,754 km2, Chinese
+104, , Laos, Vientiane, 420 $, 7,523,205, 237,955 km2, Lao
+105, , Paraguay, Asunción, 340 $, 7,361,000, 406,796 km2, Spanish and Guarani
+106, , Libya, Tripoli, 395 $, 7,002,701, 1,759,541 km2, Arabic
+107, , Bulgaria, Sofia, 1,650 $, 6,895,040, 110,993 km2, Bulgarian
+108, , Serbia, Belgrade, 1,400 $, 6,881,547, 88,361 km2, Serbian
+109, , Lebanon, Beirut, 2,480 $, 6,859,408, 10,452 km2, Arabic
+110, , El Salvador, San Salvador, 1,350 $, 6,830,000, 21,041 km2, Spanish
+111, , Kyrgyzstan, Bishkek, 240 $, 6,786,600, 199,951 km2, Kyrgyz and Russian
+112, , Nicaragua, Managua, 340 $, 6,786,201, 130,375 km2, Spanish
+113, , Turkmenistan, Ashgabat, 570 $, 6,091,187, 491,210 km2, Turkmen
+114, , Denmark, Copenhagen, 6,400 $, 5,850,189, 42,933 km2, Danish
+115, , Republic of the Congo, Brazzaville, 160 $, 5,844,359, 342,000 km2, French
+116, , Finland, Helsinki, 4,600 $, 5,539,146, 338,455 km2, Finnish and Swedish
+117, , Slovakia, Bratislava, 1,550 $, 5,484,060, 49,035 km2, Slovak
+118, , Singapore, Singapore, 5,300 $, 5,453,600, 728 km2, English, Malay, Mandarin and Tamil
+119, , Norway, Oslo, 5,400 $, 5,406,171, 385,207 km2, Norwegian
+120, , Oman, Muscat, 3,500 $, 5,301,353, 309,500 km2, Arabic
+121, , Palestine, Jerusalem, 1,400 $, 5,259,076, 6,020 km2, Arabic
+122, , Liberia, Monrovia, 520 $, 5,215,030, 111,369 km2, English
+123, , Costa Rica, San José, 3,600 $, 5,096,118, 51,100 km2, Spanish
+124, , Ireland, Dublin, 4,100 $, 5,013,500, 70,273 km2, Irish and English
+125, , Central African Republic, Bangui, 650 $, 4,966,368, 622,984 km2, French and Sango
+126, , New Zealand, Wellington, 5,400 $, 4,889,194, 268,021 km2, English , Māori and NZ Sign Language
+127, , Mauritania, Nouakchott, 250 $, 4,833,234, 1,030,000 km2, Arabic
+128, , Panama, Panama City, 1,600 $, 4,379,539, 75,417 km2, Spanish
+129, , Kuwait, Kuwait City, 2,600 $, 4,363,095, 17,818 km2, Arabic
+130, , Georgia, Tbilisi, 680 $, 3,979,297, 69,700 km2, Georgian
+131, , Croatia, Zagreb, 2,900 $, 3,903,165, 56,594 km2, Croatian
+132, , Bosnia and Herzegovina, Sarajevo, 1,700 $, 3,824,782, 51,129 km2, Bosnian, Serbian and Croatian
+133, , Eritrea, Asmara, 460 $, 3,618,346, 117,600 km2, Tigrinya
+134, , Uruguay, Montevideo, 1,800 $, 3,491,007, 176,215 km2, Spanish
+135, , Mongolia, Ulaanbaatar, 210 $, 3,356,009, 1,564,116 km2, Mongolian
+136, , Armenia, Yerevan, 950 $, 3,002,520, 29,743 km2, Armenian
+137, , Jamaica, Kingston, 890 $, 2,979,750, 10,991 km2, English
+138, , Qatar, Doha, 4,900 $, 2,952,909, 11,581 km2, Arabic
+139, , Albania, Tirana, 450 $, 2,879,797, 28,748 km2, Albanian
+140, , Lithuania, Vilnius, 1,450 $, 2,784,279, 65,300 km2, Lithuanian
+141, , Moldova, Chișinău, 460 $, 2,597,600, 33,843 km2, Romanian
+142, , Namibia, Windhoek, 1,300 $, 2,556,226, 825,615 km2, English
+143, , Gambia, Banjul, 350 $, 2,519,292, 10,689 km2, English
+144, , Botswana, Gaborone, 750 $, 2,422,230, 581,730 km2, Setswana and English
+145, , Gabon, Libreville, 290 $, 2,304,380, 267,667 km2, French
+146, , Lesotho, Maseru, 490 $, 2,300,328, 30,355 km2, Sesotho and English
+147, , Slovenia, Ljubljana, 1,350 $, 2,107,126, 20,271 km2, Slovene
+148, , Guinea-Bissau, Bissau, 390 $, 2,037,672, 36,125 km2, Portuguese
+149, , Kosovo, Pristina, 580 $, 1,935,259, 10,887 km2, Albanian and Serbian
+150, , Latvia, Riga, 880 $, 1,907,975, 64,589 km2, Latvian
+151, , North Macedonia, Skopje, 470 $, 1,833,996, 25,713 km2, Macedonian and  Albanian
+152, , Bahrain, Manama, 3,900 $, 1,792,277, 785 km2, Arabic
+153, , Equatorial Guinea, Malabo, 750 $, 1,473,380, 28,050 km2, Spanish, Portuguese and  French
+154, , Trinidad and Tobago, Port of Spain, 1,480 $, 1,367,558, 5,131 km2, English
+155, , East Timor, Dili, 2,200 $, 1,340,513, 15,007 km2, Portuguese and Tetum
+156, , Estonia, Tallinn, 1,250 $, 1,330,168, 45,339 km2, Estonian
+157, , Mauritius, Port Louis, 790 $, 1,274,797, 2,040 km2, English and French
+158, , Cyprus, Nicosia, 1,600 $, 1,220,115, 9,251 km2, Greek and Turkish
+159, , Eswatini, Mbabane, 340 $, 1,177,706, 17,364 km2, Swazi and English
+160, , Djibouti, Djibouti, 980 $, 1,009,161, 23,200 km2, French and Arabic
+161, , Fiji, Suva, 1,100 $, 905,872, 18,274 km2, Fijian, English and  Fiji Hindi
+162, , Comoros, Moroni, 750 $, 897,318, 1,861 km2, Comorian, French and Arabic
+163, , Guyana, Georgetown, 760 $, 792,044, 214,970 km2, English
+164, , Bhutan, Thimphu, 360 $, 784,057, 38,394 km2, Dzongkha
+165, , Solomon Islands, Honiara, 1,080 $, 712,257, 28,400 km2, English
+166, , Sahrawi Arab Democratic Republic, El Aaiún, 1,200 $, 692,000, 266,000 km2, Arabic
+167, , Macau, Macau, 2,900 $, 662,374, 115 km2, Chinese and Portuguese
+168, , Luxembourg, Luxembourg City, 5,100 $, 641,065, 2,586 km2, Luxembourgish
+169, , Montenegro, Podgorica, 790 $, 628,180, 13,812 km2, Montenegrin
+170, , Suriname, Paramaribo, 290 $, 594,318, 163,821 km2, Dutch
+171, , Cape Verde, Praia, 450 $, 564,852, 483,628 km2, Portuguese
+172, , Micronesia, Palikir, 2,750 $, 557,251, 702 km2, English
+173, , Maldives, Malé, 680 $, 554,845, 300 km2, Dhivehi
+174, , Transnistria, Tiraspol, 230 $, 476,000, 4,163 km2, Russian, Romanian and Ukrainian
+175, , Brunei, Bandar Seri Begawan, 2,400 $, 443,613, 5,765 km2, Malay
+176, , Malta, Valletta, 1,800 $, 443,241, 316 km2, Maltese and English
+177, , Belize, Belmopan, 800 $, 408,383, 22,966 km2, English
+178, , Bahamas, Nassau, 3,900 $, 398,746, 13,878 km2, English
+179, , Iceland, Reykjavík, 5,900 $, 344,495, 102,775 km2, Icelandic
+180, , Vanuatu, Port Vila, 790 $, 318,099, 12,189 km2, Bislama, English and French
+181, , Northern Cyprus, Nicosia, 590 $, 313,626, 3,355 km2, Turkish
+182, , Barbados, Bridgetown, 1,200 $, 287,888, 439 km2, English
+183, , Abkhazia, Sukhumi, 300 $, 265,863, 8,665 km2, Abkhaz, Russian
+184, , Sao Tome and Principe, São Tomé, 130 $, 225,310, 1,001 km2, Portuguese
+185, , Samoa, Apia, 980 $, 203,906, 2,842 km2, Samoan and  English
+186, , Saint Lucia, Castries, 3,900 $, 184,901, 617 km2, English
+187, , Kiribati, South Tarawa, 1,700 $, 122,201, 811 km2, English and Gilbertese
+188, , Grenada, St. George's, 4,300 $, 113,289, 348 km2, English
+189, , Saint Vincent and the Grenadines, Kingstown, 1,550 $, 111,468, 389 km2, English
+190, , Tonga, Nukuʻalofa, 1,600 $, 107,209, 748 km2, English and Tongan
+191, , Seychelles, Victoria, 1,750 $, 99,319, 459 km2, English, French and Seychellois
+192, , Antigua and Barbuda, St. John's, 1,200 $, 98,230, 440 km2, English
+193, , Andorra, Andorra la Vella, 1,200 $, 77,265, 467 km2, Catalan
+194, , Anguilla, The Valley, 6,500 $, 15,825, 91 km2, English
+
